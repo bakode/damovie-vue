@@ -1,29 +1,28 @@
-# fr-vue-test
+# Da'Movie
+Da'Movie - movie list from themoviedb.org built with Vue + vue-router + vuex.
+
+</br>
+<p align="center">
+   <img src="https://raw.githubusercontent.com/aasumitro/damovie-vue/master/screenshoot_home.png" width="550">
+</p>
+</br>
 
 ## Project setup
 ```
-npm install
-```
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+Install deps
+    npm install
 
-### Compiles and minifies for production
-```
-npm run build
-```
+Compiles and hot-reloads for development
+    npm run serve
 
-### Run your tests
-```
-npm run test
-```
+Compiles and minifies for production
+    npm run build
 
-### Lints and fixes files
-```
-npm run lint
-```
+Run your tests
+    npm run test
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+Lints and fixes files
+    npm run lint
+
+```
