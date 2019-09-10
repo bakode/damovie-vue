@@ -14,9 +14,15 @@
 
         <section id="list-popular-movie">
             <div class="title">
-                <h3 v-if="search">Search Result</h3>
-                <h3 v-else>Popular Movies</h3>
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+                <section v-if="search">
+                    <h3>Search Result</h3>
+                    <p>Return result from <a href="https://themoviedb.org">themoviedb.org</a> with query {{search}} </p>
+                </section>
+
+                <section v-else>
+                    <h3>Popular Movies</h3>
+                    <p>Popular movie from <a href="https://themoviedb.org">themoviedb.org</a>.</p>
+                </section>
             </div>
 
             <div class="d-flex justify-content-center align-items-center mt-5 mb-5" v-if="loading">

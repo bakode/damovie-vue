@@ -1,8 +1,7 @@
-
 <template>
     <blockquote class="mb-0 blockquote text-center bg-dark text-light p-3 footer">
-        <p class="mb-0">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer posuere erat a ante.</p>
-        <footer class="blockquote-footer">Someone famous in <cite title="Source Title">Source Title</cite></footer>
+        <p class="mb-0">Da'Movie</p>
+        <footer class="blockquote-footer">Movie database from <cite title="Source Title">themoviedb.org</cite></footer>
     </blockquote>
 </template>
 
