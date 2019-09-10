@@ -3,7 +3,7 @@ Da'Movie - movie list from themoviedb.org built with Vue + vue-router + vuex.
 
 </br>
 <p align="center">
-   <img src="https://raw.githubusercontent.com/aasumitro/damovie-vue/master/screenshoot_home.png" width="550">
+   <img src="https://raw.githubusercontent.com/aasumitro/damovie-vue/master/assets/screenshoot_home.png" width="550">
 </p>
 </br>
 
